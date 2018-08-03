@@ -1,0 +1,71 @@
+ChangeLog for the Ekmelily project
+==================================
+
+Version 0.1 (1 September 2013)
+- Initial release.
+
+Version 1.0 (22 June 2015)
+- First SMuFL compliant release with three notation styles for twelfth-tones
+  (72-EDO): arrow, rhm, sims.
+- New Ekmelos version 1.0.
+
+Version 1.1 (25 July 2015)
+- Added ten new notation styles for twelfth-, sixth-, and quarter-tones
+  (72-,36-,24-EDO): sag, msag, wys, go, gos, gost, stz, stc, stvt, bos.
+- New Ekmelos version 1.1.
+
+Version 1.2 (14 January 2016)
+- Added eight new notation styles for quarter- and third-tones (24-,18-EDO):
+  pers, bus, wstc, stp, four, stg, xen, fern.
+- New command line option "ekmelic-style" to specify the default predefined
+  notation style.
+- New Ekmelos version 1.2.
+
+Version 1.3 (27 January 2016)
+- Support for cautionary accidentals in parenthesis (cautionary styles).
+- New Ekmelos version 1.3.
+
+Version 1.4 (1 February 2016)
+- Support for user-defined notation styles.
+
+Version 1.5 (5 February 2016)
+- Revised support for user-defined notation styles with the new command
+  `\ekmelicUserStyle`.
+- Removed the commands `\extraNatural` and `\omitAccidental` (now in ekmecoll.ily).
+
+Version 1.6 (1 April 2016)
+- Added and rectified note names for A and E with suffixes for decreasing
+  alterations, e.g. `ases` and `aeses` for `asas`.
+
+Version 1.7 (8 August 2016)
+- Removed some unnecessary predefined notation styles (introduced in version 1.2):
+  pers, bus, wstc, stp, stg, xen (but not four and fern);
+  since they represent just freely invented combinations of individual
+  accidental symbols. User-defined styles should be created instead.
+
+Version 1.8 (13 September 2016)
+- Support for other fonts than Ekmelos.
+- New Ekmelos version 1.4.
+
+Version 1.9 (28 September 2016)
+- Support for note names in different languages by separate language files.
+  Available are German ("ekmel-de.ily") and English ("ekmel-en.ily").
+- New command line option `ekmelic-font` to select a font.
+- New Ekmelos version 1.5.
+
+Version 1.10 (27 January 2017)
+- Extended Ferneyhough notation (fern) with quarter-tone accidentals.
+- Exchange of single accidentals for "combined" quarter-tone degrees with
+  composite symbols in the notation styles gost, stz, stc, and stvt.
+
+Version 1.11 (19 October 2017)
+- Adapted for LilyPond version 2.19.22 or higher (as of issue 4422,
+  define-music-function, define-void-function etc. have no parser and
+  location arguments).
+- Removed override for KeySignature accidentals.
+
+Version 1.12 (22 October 2017)
+- Adapted selection of english pitch names for LilyPond version 2.19.22
+  or higher.
+- Modified Sims notation (sims) without use of ligatures, i.e. the
+  optional glyphs U+F606-U+F615 which are defined only in the Ekmelos font.

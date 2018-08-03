@@ -1,0 +1,3870 @@
+{
+  "a": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 97,
+    "codepoint": "U+0061",
+    "description": "Latin small letter a",
+    "ekmelily": {}
+  },
+  "accSagittal11LargeDiesisDown": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58125,
+    "codepoint": "U+E30D",
+    "description": "11 large diesis down, 3\u00b0 down [46 EDO]",
+    "ekmelily": {}
+  },
+  "accSagittal11LargeDiesisUp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58124,
+    "codepoint": "U+E30C",
+    "description": "11 large diesis up, (11L), (sharp less 11M), 3\u00b0 up [46 EDO]",
+    "ekmelily": {}
+  },
+  "accSagittal11MediumDiesisDown": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58123,
+    "codepoint": "U+E30B",
+    "description": "11 medium diesis down, 1\u00b0[17 31] 2\u00b046 down, 1/4-tone down",
+    "ekmelily": {
+      "msag": 6,
+      "sag": 8
+    }
+  },
+  "accSagittal11MediumDiesisUp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58122,
+    "codepoint": "U+E30A",
+    "description": "11 medium diesis up, (11M), 1\u00b0[17 31] 2\u00b046 up, 1/4-tone up",
+    "ekmelily": {
+      "msag": 5,
+      "sag": 5
+    }
+  },
+  "accSagittal25SmallDiesisDown": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58119,
+    "codepoint": "U+E307",
+    "description": "25 small diesis down, 2\u00b0 down [53 EDO]",
+    "ekmelily": {}
+  },
+  "accSagittal25SmallDiesisUp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58118,
+    "codepoint": "U+E306",
+    "description": "25 small diesis up, (25S, ~5:13S, ~37S, 5C\u00a0plus\u00a05C), 2\u00b0 up [53 EDO]",
+    "ekmelily": {}
+  },
+  "accSagittal35LargeDiesisDown": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58127,
+    "codepoint": "U+E30F",
+    "description": "35 large diesis down, 2\u00b0 down [50 EDO], 5/18-tone down",
+    "ekmelily": {}
+  },
+  "accSagittal35LargeDiesisUp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58126,
+    "codepoint": "U+E30E",
+    "description": "35 large diesis up, (35L, ~13L, ~125L,  sharp less 35M), 2\u00b050 up",
+    "ekmelily": {}
+  },
+  "accSagittal35MediumDiesisDown": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58121,
+    "codepoint": "U+E309",
+    "description": "35 medium diesis down, 1\u00b0[50] 2\u00b0[27] down, 2/9-tone down",
+    "ekmelily": {}
+  },
+  "accSagittal35MediumDiesisUp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58120,
+    "codepoint": "U+E308",
+    "description": "35 medium diesis up, (35M, ~13M, ~125M, 5C\u00a0plus\u00a07C), 2/9-tone up",
+    "ekmelily": {}
+  },
+  "accSagittal5CommaDown": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58115,
+    "codepoint": "U+E303",
+    "description": "5 comma down, 1\u00b0 down [22 27 29 34 41 46 53 96 EDOs], 1/12-tone down",
+    "ekmelily": {
+      "msag": 2,
+      "sag": 2
+    }
+  },
+  "accSagittal5CommaUp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58114,
+    "codepoint": "U+E302",
+    "description": "5 comma up, (5C), 1\u00b0 up [22 27 29 34 41 46 53 96 EDOs], 1/12-tone up",
+    "ekmelily": {
+      "msag": 1,
+      "sag": 1
+    }
+  },
+  "accSagittal5v7KleismaDown": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58113,
+    "codepoint": "U+E301",
+    "description": "5:7 kleisma down",
+    "ekmelily": {}
+  },
+  "accSagittal5v7KleismaUp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58112,
+    "codepoint": "U+E300",
+    "description": "5:7 kleisma up, (5:7k, ~11:13k, 7C\u00a0less\u00a05C)",
+    "ekmelily": {}
+  },
+  "accSagittal7CommaDown": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58117,
+    "codepoint": "U+E305",
+    "description": "7 comma down, 1\u00b0 down [43 EDO], 2\u00b0 down [72 EDO], 1/6-tone down",
+    "ekmelily": {
+      "msag": 4,
+      "sag": 4
+    }
+  },
+  "accSagittal7CommaUp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58116,
+    "codepoint": "U+E304",
+    "description": "7 comma up, (7C), 1\u00b0 up [43 EDO], 2\u00b0 up [72 EDO], 1/6-tone up",
+    "ekmelily": {
+      "msag": 3,
+      "sag": 3
+    }
+  },
+  "accSagittalDoubleFlat": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalPure",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58165,
+    "codepoint": "U+E335",
+    "description": "Double flat, (2 apotomes down)[almost all EDOs], whole-tone down",
+    "ekmelily": {
+      "sag": 28
+    }
+  },
+  "accSagittalDoubleFlat5CUp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalPure",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58161,
+    "codepoint": "U+E331",
+    "description": "Double flat 5C-up, 5\u00b0[22 29] 7\u00b0[34 41] 9\u00b053 down, 11/12 tone down",
+    "ekmelily": {
+      "sag": 26
+    }
+  },
+  "accSagittalDoubleFlat7CUp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalPure",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58159,
+    "codepoint": "U+E32F",
+    "description": "Double flat 7C-up, 5\u00b0 down [43 EDO], 10\u00b0 down [72 EDO], 5/6-tone down",
+    "ekmelily": {
+      "sag": 24
+    }
+  },
+  "accSagittalDoubleSharp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalPure",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58164,
+    "codepoint": "U+E334",
+    "description": "Double sharp, (2 apotomes up)[almost all EDOs], whole-tone up",
+    "ekmelily": {
+      "sag": 27
+    }
+  },
+  "accSagittalDoubleSharp5CDown": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalPure",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58160,
+    "codepoint": "U+E330",
+    "description": "Double sharp 5C-down, 5\u00b0[22 29] 7\u00b0[34 41] 9\u00b053 up, 11/12 tone up",
+    "ekmelily": {
+      "sag": 25
+    }
+  },
+  "accSagittalDoubleSharp7CDown": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalPure",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58158,
+    "codepoint": "U+E32E",
+    "description": "Double sharp 7C-down, 5\u00b0[43] 10\u00b0[72] up, 5/6-tone up",
+    "ekmelily": {
+      "sag": 23
+    }
+  },
+  "accSagittalFlat": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalPure",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58137,
+    "codepoint": "U+E319",
+    "description": "Flat, (apotome down)[almost all EDOs], 1/2-tone down",
+    "ekmelily": {
+      "sag": 14
+    }
+  },
+  "accSagittalFlat11MDown": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalPure",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58151,
+    "codepoint": "U+E327",
+    "description": "Flat 11M-down, 3\u00b0 down [17 31 EDOs], 7\u00b0 down [46 EDO], 3/4-tone down",
+    "ekmelily": {
+      "sag": 20
+    }
+  },
+  "accSagittalFlat5CDown": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalPure",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58143,
+    "codepoint": "U+E31F",
+    "description": "Flat 5C-down, 4\u00b0[22 29] 5\u00b0[27 34 41] 6\u00b0[39 46 53] down, 7/12-tone down",
+    "ekmelily": {
+      "sag": 16
+    }
+  },
+  "accSagittalFlat5CUp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalPure",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58133,
+    "codepoint": "U+E315",
+    "description": "Flat 5C-up, 2\u00b0[22,29] 3\u00b0[34 41] 4\u00b0[46 53 60] down, 5/12-tone down",
+    "ekmelily": {
+      "sag": 12
+    }
+  },
+  "accSagittalFlat7CDown": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalPure",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58145,
+    "codepoint": "U+E321",
+    "description": "Flat 7C-down, 4\u00b0 down [43 EDO], 8\u00b0 down [72 EDO], 2/3-tone down",
+    "ekmelily": {
+      "sag": 18
+    }
+  },
+  "accSagittalFlat7CUp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalPure",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58131,
+    "codepoint": "U+E313",
+    "description": "Flat 7C-up, 2\u00b0 down [43 EDO], 4\u00b0 down [72 EDO], 1/3-tone down",
+    "ekmelily": {
+      "sag": 10
+    }
+  },
+  "accSagittalSharp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalPure",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58136,
+    "codepoint": "U+E318",
+    "description": "Sharp, (apotome up)[almost all EDOs], 1/2-tone up",
+    "ekmelily": {
+      "sag": 13
+    }
+  },
+  "accSagittalSharp11MUp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalPure",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58150,
+    "codepoint": "U+E326",
+    "description": "Sharp 11M-up, 3\u00b0 up [17 31 EDOs], 7\u00b0 up [46 EDO], 3/4-tone up",
+    "ekmelily": {
+      "sag": 19
+    }
+  },
+  "accSagittalSharp5CDown": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalPure",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58132,
+    "codepoint": "U+E314",
+    "description": "Sharp 5C-down, 2\u00b0[22 29] 3\u00b0[34 41] 4\u00b0[46 53 60] up, 5/12-tone up",
+    "ekmelily": {
+      "sag": 11
+    }
+  },
+  "accSagittalSharp5CUp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalPure",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58142,
+    "codepoint": "U+E31E",
+    "description": "Sharp 5C-up, 4\u00b0[22 29] 5\u00b0[27 34 41] 6\u00b0[39 46 53] up, 7/12-tone up",
+    "ekmelily": {
+      "sag": 15
+    }
+  },
+  "accSagittalSharp7CDown": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalPure",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58130,
+    "codepoint": "U+E312",
+    "description": "Sharp 7C-down, 2\u00b0 up [43 EDO], 4\u00b0 up [72 EDO], 1/3-tone up",
+    "ekmelily": {
+      "sag": 9
+    }
+  },
+  "accSagittalSharp7CUp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalPure",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58144,
+    "codepoint": "U+E320",
+    "description": "Sharp 7C-up, 4\u00b0 up [43 EDO], 8\u00b0 up [72 EDO], 2/3-tone up",
+    "ekmelily": {
+      "sag": 17
+    }
+  },
+  "accidentalArrowDown": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals24EDOArrows"
+    ],
+    "code": 57979,
+    "codepoint": "U+E27B",
+    "description": "Arrow down (lower by one quarter-tone)",
+    "ekmelily": {
+      "arrow": 6,
+      "gos": 6
+    }
+  },
+  "accidentalArrowUp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals24EDOArrows"
+    ],
+    "code": 57978,
+    "codepoint": "U+E27A",
+    "description": "Arrow up (raise by one quarter-tone)",
+    "ekmelily": {
+      "arrow": 5,
+      "gos": 5
+    }
+  },
+  "accidentalBakiyeFlat": {
+    "block": "E000",
+    "classes": [
+      "accidentalsAEU",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58434,
+    "codepoint": "U+E442",
+    "description": "Bakiye (flat)",
+    "ekmelily": {}
+  },
+  "accidentalBakiyeSharp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsAEU",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58437,
+    "codepoint": "U+E445",
+    "description": "Bakiye (sharp)",
+    "ekmelily": {}
+  },
+  "accidentalBracketLeft": {
+    "block": "E000",
+    "classes": [],
+    "code": 57964,
+    "codepoint": "U+E26C",
+    "description": "Accidental bracket, left",
+    "ekmelily": {}
+  },
+  "accidentalBracketRight": {
+    "block": "E000",
+    "classes": [],
+    "code": 57965,
+    "codepoint": "U+E26D",
+    "description": "Accidental bracket, right",
+    "ekmelily": {}
+  },
+  "accidentalBuyukMucennebFlat": {
+    "block": "E000",
+    "classes": [
+      "accidentalsAEU",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58432,
+    "codepoint": "U+E440",
+    "description": "B\u00fcy\u00fck m\u00fccenneb (flat)",
+    "ekmelily": {}
+  },
+  "accidentalBuyukMucennebSharp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsAEU",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58439,
+    "codepoint": "U+E447",
+    "description": "B\u00fcy\u00fck m\u00fccenneb (sharp)",
+    "ekmelily": {}
+  },
+  "accidentalCommaSlashDown": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58490,
+    "codepoint": "U+E47A",
+    "description": "Syntonic/Didymus comma (80:81) down (Bosanquet)",
+    "ekmelily": {
+      "bos": 2
+    }
+  },
+  "accidentalCommaSlashUp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58489,
+    "codepoint": "U+E479",
+    "description": "Syntonic/Didymus comma (80:81) up (Bosanquet)",
+    "ekmelily": {
+      "bos": 1
+    }
+  },
+  "accidentalDoubleFlat": {
+    "alternateCodepoint": "U+1D12B",
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsStandard"
+    ],
+    "code": 57956,
+    "codepoint": "U+E264",
+    "description": "Double flat",
+    "ekmelily": {
+      "arrow": 28,
+      "bos": 28,
+      "fern": 28,
+      "four": 28,
+      "go": 28,
+      "gos": 28,
+      "gost": 28,
+      "msag": 28,
+      "rhm": 28,
+      "sims": 28,
+      "stc": 28,
+      "stvt": 28,
+      "stz": 28,
+      "wys": 28
+    }
+  },
+  "accidentalDoubleFlatReversed": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58499,
+    "codepoint": "U+E483",
+    "description": "Reversed double flat",
+    "ekmelily": {}
+  },
+  "accidentalDoubleFlatTurned": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58501,
+    "codepoint": "U+E485",
+    "description": "Turned double flat",
+    "ekmelily": {}
+  },
+  "accidentalDoubleSharp": {
+    "alternateCodepoint": "U+1D12A",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsStandard"
+    ],
+    "code": 57955,
+    "codepoint": "U+E263",
+    "description": "Double sharp",
+    "ekmelily": {
+      "arrow": 27,
+      "bos": 27,
+      "fern": 27,
+      "four": 27,
+      "go": 27,
+      "gos": 27,
+      "gost": 27,
+      "rhm": 27,
+      "sims": 27,
+      "stc": 27,
+      "stvt": 27,
+      "stz": 27,
+      "wys": 27
+    }
+  },
+  "accidentalFilledReversedFlatAndFlat": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSteinZimmermann"
+    ],
+    "code": 58006,
+    "codepoint": "U+E296",
+    "description": "Filled reversed flat and flat",
+    "ekmelily": {}
+  },
+  "accidentalFilledReversedFlatAndFlatArrowDown": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSteinZimmermann"
+    ],
+    "code": 58008,
+    "codepoint": "U+E298",
+    "description": "Filled reversed flat and flat with arrow down",
+    "ekmelily": {}
+  },
+  "accidentalFilledReversedFlatAndFlatArrowUp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSteinZimmermann"
+    ],
+    "code": 58007,
+    "codepoint": "U+E297",
+    "description": "Filled reversed flat and flat with arrow up",
+    "ekmelily": {}
+  },
+  "accidentalFilledReversedFlatArrowDown": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSteinZimmermann"
+    ],
+    "code": 58003,
+    "codepoint": "U+E293",
+    "description": "Filled reversed flat with arrow down",
+    "ekmelily": {}
+  },
+  "accidentalFilledReversedFlatArrowUp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSteinZimmermann"
+    ],
+    "code": 58002,
+    "codepoint": "U+E292",
+    "description": "Filled reversed flat with arrow up",
+    "ekmelily": {}
+  },
+  "accidentalFiveQuarterTonesFlatArrowDown": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals24EDOArrows"
+    ],
+    "code": 57977,
+    "codepoint": "U+E279",
+    "description": "Five-quarter-tones flat",
+    "ekmelily": {
+      "go": 34,
+      "gos": 32,
+      "gost": 32
+    }
+  },
+  "accidentalFiveQuarterTonesSharpArrowUp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals24EDOArrows"
+    ],
+    "code": 57974,
+    "codepoint": "U+E276",
+    "description": "Five-quarter-tones sharp",
+    "ekmelily": {
+      "go": 33,
+      "gos": 31,
+      "gost": 31
+    }
+  },
+  "accidentalFlat": {
+    "alternateCodepoint": "U+266D",
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsStandard"
+    ],
+    "code": 57952,
+    "codepoint": "U+E260",
+    "description": "Flat",
+    "ekmelily": {
+      "arrow": 14,
+      "bos": 14,
+      "fern": 14,
+      "four": 14,
+      "go": 14,
+      "gos": 14,
+      "gost": 14,
+      "msag": 14,
+      "rhm": 14,
+      "sims": 14,
+      "stc": 14,
+      "stvt": 14,
+      "stz": 14
+    }
+  },
+  "accidentalFlatLoweredStockhausen": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsStockhausen"
+    ],
+    "code": 60755,
+    "codepoint": "U+ED53",
+    "description": "Lowered flat (Stockhausen)",
+    "ekmelily": {}
+  },
+  "accidentalFlatRaisedStockhausen": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsStockhausen"
+    ],
+    "code": 60754,
+    "codepoint": "U+ED52",
+    "description": "Raised flat (Stockhausen)",
+    "ekmelily": {}
+  },
+  "accidentalFlatRepeatedLineStockhausen": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsStockhausen"
+    ],
+    "code": 60764,
+    "codepoint": "U+ED5C",
+    "description": "Repeated flat, note on line (Stockhausen)",
+    "ekmelily": {}
+  },
+  "accidentalFlatRepeatedSpaceStockhausen": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsStockhausen"
+    ],
+    "code": 60763,
+    "codepoint": "U+ED5B",
+    "description": "Repeated flat, note in space (Stockhausen)",
+    "ekmelily": {}
+  },
+  "accidentalFlatTurned": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58500,
+    "codepoint": "U+E484",
+    "description": "Turned flat",
+    "ekmelily": {}
+  },
+  "accidentalHalfSharpArrowDown": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSteinZimmermann"
+    ],
+    "code": 58010,
+    "codepoint": "U+E29A",
+    "description": "Half sharp with arrow down",
+    "ekmelily": {}
+  },
+  "accidentalHalfSharpArrowUp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSteinZimmermann"
+    ],
+    "code": 58009,
+    "codepoint": "U+E299",
+    "description": "Half sharp with arrow up",
+    "ekmelily": {}
+  },
+  "accidentalJohnston13": {
+    "block": "E000",
+    "classes": [
+      "accidentalsJohnston",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58038,
+    "codepoint": "U+E2B6",
+    "description": "Thirteen (raise by 65:64)",
+    "ekmelily": {}
+  },
+  "accidentalJohnston31": {
+    "block": "E000",
+    "classes": [
+      "accidentalsJohnston",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58039,
+    "codepoint": "U+E2B7",
+    "description": "Inverted 13 (lower by 65:64)",
+    "ekmelily": {}
+  },
+  "accidentalJohnstonDown": {
+    "block": "E000",
+    "classes": [
+      "accidentalsJohnston",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58037,
+    "codepoint": "U+E2B5",
+    "description": "Down arrow (lower by 33:32)",
+    "ekmelily": {}
+  },
+  "accidentalJohnstonEl": {
+    "block": "E000",
+    "classes": [
+      "accidentalsJohnston",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58034,
+    "codepoint": "U+E2B2",
+    "description": "Inverted seven (raise by 36:35)",
+    "ekmelily": {}
+  },
+  "accidentalJohnstonMinus": {
+    "block": "E000",
+    "classes": [
+      "accidentalsJohnston",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58033,
+    "codepoint": "U+E2B1",
+    "description": "Minus (lower by 81:80)",
+    "ekmelily": {}
+  },
+  "accidentalJohnstonPlus": {
+    "block": "E000",
+    "classes": [
+      "accidentalsJohnston",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58032,
+    "codepoint": "U+E2B0",
+    "description": "Plus (raise by 81:80)",
+    "ekmelily": {}
+  },
+  "accidentalJohnstonSeven": {
+    "block": "E000",
+    "classes": [
+      "accidentalsJohnston",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58035,
+    "codepoint": "U+E2B3",
+    "description": "Seven (lower by 36:35)",
+    "ekmelily": {}
+  },
+  "accidentalJohnstonUp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsJohnston",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58036,
+    "codepoint": "U+E2B4",
+    "description": "Up arrow (raise by 33:32)",
+    "ekmelily": {}
+  },
+  "accidentalKomaFlat": {
+    "block": "E000",
+    "classes": [
+      "accidentalsAEU",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58435,
+    "codepoint": "U+E443",
+    "description": "Koma (flat)",
+    "ekmelily": {}
+  },
+  "accidentalKomaSharp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsAEU",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58436,
+    "codepoint": "U+E444",
+    "description": "Koma (sharp)",
+    "ekmelily": {}
+  },
+  "accidentalKoron": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsPersian"
+    ],
+    "code": 58464,
+    "codepoint": "U+E460",
+    "description": "Koron (quarter tone flat)",
+    "ekmelily": {}
+  },
+  "accidentalKucukMucennebFlat": {
+    "block": "E000",
+    "classes": [
+      "accidentalsAEU",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58433,
+    "codepoint": "U+E441",
+    "description": "K\u00fc\u00e7\u00fck m\u00fccenneb (flat)",
+    "ekmelily": {}
+  },
+  "accidentalKucukMucennebSharp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsAEU",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58438,
+    "codepoint": "U+E446",
+    "description": "K\u00fc\u00e7\u00fck m\u00fccenneb (sharp)",
+    "ekmelily": {}
+  },
+  "accidentalLargeDoubleSharp": {
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58493,
+    "codepoint": "U+E47D",
+    "description": "Large double sharp",
+    "ekmelily": {
+      "msag": 27
+    }
+  },
+  "accidentalLoweredStockhausen": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsStockhausen"
+    ],
+    "code": 60753,
+    "codepoint": "U+ED51",
+    "description": "Lowered (Stockhausen)",
+    "ekmelily": {}
+  },
+  "accidentalNarrowReversedFlat": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSteinZimmermann"
+    ],
+    "code": 57988,
+    "codepoint": "U+E284",
+    "description": "Narrow reversed flat(quarter-tone flat)",
+    "ekmelily": {
+      "gost": 6,
+      "stc": 6,
+      "stz": 6
+    }
+  },
+  "accidentalNarrowReversedFlatAndFlat": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSteinZimmermann"
+    ],
+    "code": 57989,
+    "codepoint": "U+E285",
+    "description": "Narrow reversed flat and flat(three-quarter-tones flat)",
+    "ekmelily": {
+      "gost": 20,
+      "stz": 20
+    }
+  },
+  "accidentalNatural": {
+    "alternateCodepoint": "U+266E",
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "accidentalsSagittalPure",
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsStandard"
+    ],
+    "code": 57953,
+    "codepoint": "U+E261",
+    "description": "Natural",
+    "ekmelily": {
+      "arrow": 0,
+      "bos": 0,
+      "fern": 0,
+      "four": 0,
+      "go": 0,
+      "gos": 0,
+      "gost": 0,
+      "msag": 0,
+      "rhm": 0,
+      "sag": 0,
+      "sims": 0,
+      "stc": 0,
+      "stvt": 0,
+      "stz": 0,
+      "wys": 0
+    }
+  },
+  "accidentalNaturalFlat": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsStandard"
+    ],
+    "code": 57959,
+    "codepoint": "U+E267",
+    "description": "Natural flat",
+    "ekmelily": {}
+  },
+  "accidentalNaturalLoweredStockhausen": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsStockhausen"
+    ],
+    "code": 60757,
+    "codepoint": "U+ED55",
+    "description": "Lowered natural (Stockhausen)",
+    "ekmelily": {}
+  },
+  "accidentalNaturalRaisedStockhausen": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsStockhausen"
+    ],
+    "code": 60756,
+    "codepoint": "U+ED54",
+    "description": "Raised natural (Stockhausen)",
+    "ekmelily": {}
+  },
+  "accidentalNaturalReversed": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58498,
+    "codepoint": "U+E482",
+    "description": "Reversed natural",
+    "ekmelily": {}
+  },
+  "accidentalNaturalSharp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsStandard"
+    ],
+    "code": 57960,
+    "codepoint": "U+E268",
+    "description": "Natural sharp",
+    "ekmelily": {}
+  },
+  "accidentalOneAndAHalfSharpsArrowDown": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSteinZimmermann"
+    ],
+    "code": 58012,
+    "codepoint": "U+E29C",
+    "description": "One and a half sharps with arrow down",
+    "ekmelily": {}
+  },
+  "accidentalOneAndAHalfSharpsArrowUp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSteinZimmermann"
+    ],
+    "code": 58011,
+    "codepoint": "U+E29B",
+    "description": "One and a half sharps with arrow up",
+    "ekmelily": {}
+  },
+  "accidentalOneQuarterToneFlatFerneyhough": {
+    "block": "E000",
+    "classes": [
+      "accidentals"
+    ],
+    "code": 58511,
+    "codepoint": "U+E48F",
+    "description": "One-quarter-tone flat (Ferneyhough)",
+    "ekmelily": {
+      "fern": 6
+    }
+  },
+  "accidentalOneQuarterToneFlatStockhausen": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsStockhausen"
+    ],
+    "code": 60761,
+    "codepoint": "U+ED59",
+    "description": "One-quarter-tone flat (Stockhausen)",
+    "ekmelily": {}
+  },
+  "accidentalOneQuarterToneSharpFerneyhough": {
+    "block": "E000",
+    "classes": [
+      "accidentals"
+    ],
+    "code": 58510,
+    "codepoint": "U+E48E",
+    "description": "One-quarter-tone sharp (Ferneyhough)",
+    "ekmelily": {
+      "fern": 5
+    }
+  },
+  "accidentalOneQuarterToneSharpStockhausen": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsStockhausen"
+    ],
+    "code": 60760,
+    "codepoint": "U+ED58",
+    "description": "One-quarter-tone sharp (Stockhausen)",
+    "ekmelily": {}
+  },
+  "accidentalOneThirdToneFlatFerneyhough": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58507,
+    "codepoint": "U+E48B",
+    "description": "One-third-tone flat (Ferneyhough)",
+    "ekmelily": {
+      "fern": 10
+    }
+  },
+  "accidentalOneThirdToneSharpFerneyhough": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58506,
+    "codepoint": "U+E48A",
+    "description": "One-third-tone sharp (Ferneyhough)",
+    "ekmelily": {
+      "fern": 9
+    }
+  },
+  "accidentalParensLeft": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsStandard"
+    ],
+    "code": 57962,
+    "codepoint": "U+E26A",
+    "description": "Accidental parenthesis, left",
+    "ekmelily": {}
+  },
+  "accidentalParensRight": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsStandard"
+    ],
+    "code": 57963,
+    "codepoint": "U+E26B",
+    "description": "Accidental parenthesis, right",
+    "ekmelily": {}
+  },
+  "accidentalQuarterToneFlat4": {
+    "alternateCodepoint": "U+1D133",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58495,
+    "codepoint": "U+E47F",
+    "description": "Quarter-tone flat",
+    "ekmelily": {
+      "four": 6
+    }
+  },
+  "accidentalQuarterToneFlatArrowUp": {
+    "alternateCodepoint": "U+1D12C",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals24EDOArrows"
+    ],
+    "code": 57968,
+    "codepoint": "U+E270",
+    "description": "Quarter-tone flat",
+    "ekmelily": {
+      "go": 8,
+      "gos": 10,
+      "gost": 10
+    }
+  },
+  "accidentalQuarterToneFlatFilledReversed": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58496,
+    "codepoint": "U+E480",
+    "description": "Filled reversed flat (quarter-tone flat)",
+    "ekmelily": {}
+  },
+  "accidentalQuarterToneFlatNaturalArrowDown": {
+    "alternateCodepoint": "U+1D12F",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals24EDOArrows"
+    ],
+    "code": 57971,
+    "codepoint": "U+E273",
+    "description": "Quarter-tone flat",
+    "ekmelily": {
+      "go": 6,
+      "gos": 4,
+      "gost": 4
+    }
+  },
+  "accidentalQuarterToneFlatPenderecki": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58488,
+    "codepoint": "U+E478",
+    "description": "Quarter tone flat (Penderecki)",
+    "ekmelily": {}
+  },
+  "accidentalQuarterToneFlatStein": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSteinZimmermann"
+    ],
+    "code": 57984,
+    "codepoint": "U+E280",
+    "description": "Reversed flat (quarter-tone flat) (Stein)",
+    "ekmelily": {}
+  },
+  "accidentalQuarterToneFlatVanBlankenburg": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58504,
+    "codepoint": "U+E488",
+    "description": "Quarter-tone flat (van Blankenburg)",
+    "ekmelily": {
+      "stvt": 6
+    }
+  },
+  "accidentalQuarterToneSharp4": {
+    "alternateCodepoint": "U+1D132",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58494,
+    "codepoint": "U+E47E",
+    "description": "Quarter-tone sharp",
+    "ekmelily": {
+      "four": 5
+    }
+  },
+  "accidentalQuarterToneSharpArrowDown": {
+    "alternateCodepoint": "U+1D131",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals24EDOArrows"
+    ],
+    "code": 57973,
+    "codepoint": "U+E275",
+    "description": "Quarter-tone sharp",
+    "ekmelily": {
+      "go": 7,
+      "gos": 9,
+      "gost": 9
+    }
+  },
+  "accidentalQuarterToneSharpBusotti": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58482,
+    "codepoint": "U+E472",
+    "description": "Quarter tone sharp (Bussotti)",
+    "ekmelily": {}
+  },
+  "accidentalQuarterToneSharpNaturalArrowUp": {
+    "alternateCodepoint": "U+1D12E",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals24EDOArrows"
+    ],
+    "code": 57970,
+    "codepoint": "U+E272",
+    "description": "Quarter-tone sharp",
+    "ekmelily": {
+      "go": 5,
+      "gos": 3,
+      "gost": 3
+    }
+  },
+  "accidentalQuarterToneSharpStein": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSteinZimmermann"
+    ],
+    "code": 57986,
+    "codepoint": "U+E282",
+    "description": "Half sharp (quarter-tone sharp) (Stein)",
+    "ekmelily": {
+      "gost": 5,
+      "stc": 5,
+      "stvt": 5,
+      "stz": 5
+    }
+  },
+  "accidentalQuarterToneSharpWiggle": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58485,
+    "codepoint": "U+E475",
+    "description": "Quarter tone sharp with wiggly tail",
+    "ekmelily": {}
+  },
+  "accidentalRHM12Down": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsRHM",
+      "combiningStaffPositions"
+    ],
+    "code": 62976,
+    "codepoint": "U+F600",
+    "description": "1/12 tone low",
+    "ekmelily": {
+      "rhm": 2
+    }
+  },
+  "accidentalRHM12Up": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsRHM",
+      "combiningStaffPositions"
+    ],
+    "code": 62979,
+    "codepoint": "U+F603",
+    "description": "1/12 tone high",
+    "ekmelily": {
+      "rhm": 1
+    }
+  },
+  "accidentalRHM4Down": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsRHM",
+      "combiningStaffPositions"
+    ],
+    "code": 62978,
+    "codepoint": "U+F602",
+    "description": "1/4 tone low",
+    "ekmelily": {
+      "rhm": 6
+    }
+  },
+  "accidentalRHM4Up": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsRHM",
+      "combiningStaffPositions"
+    ],
+    "code": 62981,
+    "codepoint": "U+F605",
+    "description": "1/4 tone high",
+    "ekmelily": {
+      "rhm": 5
+    }
+  },
+  "accidentalRHM6Down": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsRHM",
+      "combiningStaffPositions"
+    ],
+    "code": 62977,
+    "codepoint": "U+F601",
+    "description": "1/6 tone low",
+    "ekmelily": {
+      "rhm": 4
+    }
+  },
+  "accidentalRHM6Up": {
+    "block": "F400",
+    "classes": [
+      "accidentals",
+      "accidentalsRHM",
+      "combiningStaffPositions"
+    ],
+    "code": 62980,
+    "codepoint": "U+F604",
+    "description": "1/6 tone high",
+    "ekmelily": {
+      "rhm": 3
+    }
+  },
+  "accidentalRaisedStockhausen": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsStockhausen"
+    ],
+    "code": 60752,
+    "codepoint": "U+ED50",
+    "description": "Raised (Stockhausen)",
+    "ekmelily": {}
+  },
+  "accidentalReversedFlatAndFlatArrowDown": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSteinZimmermann"
+    ],
+    "code": 58005,
+    "codepoint": "U+E295",
+    "description": "Reversed flat and flat with arrow down",
+    "ekmelily": {}
+  },
+  "accidentalReversedFlatAndFlatArrowUp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSteinZimmermann"
+    ],
+    "code": 58004,
+    "codepoint": "U+E294",
+    "description": "Reversed flat and flat with arrow up",
+    "ekmelily": {}
+  },
+  "accidentalReversedFlatArrowDown": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSteinZimmermann"
+    ],
+    "code": 58001,
+    "codepoint": "U+E291",
+    "description": "Reversed flat with arrow down",
+    "ekmelily": {}
+  },
+  "accidentalReversedFlatArrowUp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSteinZimmermann"
+    ],
+    "code": 58000,
+    "codepoint": "U+E290",
+    "description": "Reversed flat with arrow up",
+    "ekmelily": {}
+  },
+  "accidentalSharp": {
+    "alternateCodepoint": "U+266F",
+    "block": "E000",
+    "classes": [
+      "accidentalsSagittalMixed",
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsStandard"
+    ],
+    "code": 57954,
+    "codepoint": "U+E262",
+    "description": "Sharp",
+    "ekmelily": {
+      "arrow": 13,
+      "bos": 13,
+      "fern": 13,
+      "four": 13,
+      "go": 13,
+      "gos": 13,
+      "gost": 13,
+      "msag": 13,
+      "rhm": 13,
+      "sims": 13,
+      "stc": 13,
+      "stvt": 13,
+      "stz": 13
+    }
+  },
+  "accidentalSharpLoweredStockhausen": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsStockhausen"
+    ],
+    "code": 60759,
+    "codepoint": "U+ED57",
+    "description": "Lowered sharp (Stockhausen)",
+    "ekmelily": {}
+  },
+  "accidentalSharpOneHorizontalStroke": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58483,
+    "codepoint": "U+E473",
+    "description": "One or three quarter tones sharp",
+    "ekmelily": {}
+  },
+  "accidentalSharpRaisedStockhausen": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsStockhausen"
+    ],
+    "code": 60758,
+    "codepoint": "U+ED56",
+    "description": "Raised sharp (Stockhausen)",
+    "ekmelily": {}
+  },
+  "accidentalSharpRepeatedLineStockhausen": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsStockhausen"
+    ],
+    "code": 60766,
+    "codepoint": "U+ED5E",
+    "description": "Repeated sharp, note on line (Stockhausen)",
+    "ekmelily": {}
+  },
+  "accidentalSharpRepeatedSpaceStockhausen": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsStockhausen"
+    ],
+    "code": 60765,
+    "codepoint": "U+ED5D",
+    "description": "Repeated sharp, note in space (Stockhausen)",
+    "ekmelily": {}
+  },
+  "accidentalSharpReversed": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58497,
+    "codepoint": "U+E481",
+    "description": "Reversed sharp",
+    "ekmelily": {}
+  },
+  "accidentalSharpSharp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsStandard"
+    ],
+    "code": 57961,
+    "codepoint": "U+E269",
+    "description": "Sharp sharp",
+    "ekmelily": {}
+  },
+  "accidentalSims12Down": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSims"
+    ],
+    "code": 58016,
+    "codepoint": "U+E2A0",
+    "description": "1/12 tone low",
+    "ekmelily": {
+      "sims": 2
+    }
+  },
+  "accidentalSims12Up": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSims"
+    ],
+    "code": 58019,
+    "codepoint": "U+E2A3",
+    "description": "1/12 tone high",
+    "ekmelily": {
+      "sims": 1
+    }
+  },
+  "accidentalSims4Down": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSims"
+    ],
+    "code": 58018,
+    "codepoint": "U+E2A2",
+    "description": "1/4 tone low",
+    "ekmelily": {
+      "sims": 6
+    }
+  },
+  "accidentalSims4Up": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSims"
+    ],
+    "code": 58021,
+    "codepoint": "U+E2A5",
+    "description": "1/4 tone high",
+    "ekmelily": {
+      "sims": 5
+    }
+  },
+  "accidentalSims6Down": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSims"
+    ],
+    "code": 58017,
+    "codepoint": "U+E2A1",
+    "description": "1/6 tone low",
+    "ekmelily": {
+      "arrow": 4,
+      "sims": 4
+    }
+  },
+  "accidentalSims6Up": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSims"
+    ],
+    "code": 58020,
+    "codepoint": "U+E2A4",
+    "description": "1/6 tone high",
+    "ekmelily": {
+      "arrow": 3,
+      "sims": 3
+    }
+  },
+  "accidentalSimsLig4DownDoubleFlat": {
+    "block": "F400",
+    "classes": [
+      "accidentalsSims",
+      "accidentals",
+      "combiningStaffPositions"
+    ],
+    "code": 62991,
+    "codepoint": "U+F60F",
+    "description": "1/4 tone low, Double flat",
+    "ekmelily": {},
+    "ligature": [
+      "accidentalSims4Down",
+      "accidentalDoubleFlat"
+    ]
+  },
+  "accidentalSimsLig4DownDoubleSharp": {
+    "block": "F400",
+    "classes": [
+      "accidentalsSims",
+      "accidentals",
+      "combiningStaffPositions"
+    ],
+    "code": 62995,
+    "codepoint": "U+F613",
+    "description": "1/4 tone low, Double sharp",
+    "ekmelily": {},
+    "ligature": [
+      "accidentalSims4Down",
+      "accidentalDoubleSharp"
+    ]
+  },
+  "accidentalSimsLig4DownFlat": {
+    "block": "F400",
+    "classes": [
+      "accidentalsSims",
+      "accidentals",
+      "combiningStaffPositions"
+    ],
+    "code": 62983,
+    "codepoint": "U+F607",
+    "description": "1/4 tone low, Flat",
+    "ekmelily": {},
+    "ligature": [
+      "accidentalSims4Down",
+      "accidentalFlat"
+    ]
+  },
+  "accidentalSimsLig4DownSharp": {
+    "block": "F400",
+    "classes": [
+      "accidentalsSims",
+      "accidentals",
+      "combiningStaffPositions"
+    ],
+    "code": 62987,
+    "codepoint": "U+F60B",
+    "description": "1/4 tone low, Sharp",
+    "ekmelily": {},
+    "ligature": [
+      "accidentalSims4Down",
+      "accidentalSharp"
+    ]
+  },
+  "accidentalSimsLig4UpDoubleFlat": {
+    "block": "F400",
+    "classes": [
+      "accidentalsSims",
+      "accidentals",
+      "combiningStaffPositions"
+    ],
+    "code": 62993,
+    "codepoint": "U+F611",
+    "description": "1/4 tone high, Double flat",
+    "ekmelily": {},
+    "ligature": [
+      "accidentalSims4Up",
+      "accidentalDoubleFlat"
+    ]
+  },
+  "accidentalSimsLig4UpDoubleSharp": {
+    "block": "F400",
+    "classes": [
+      "accidentalsSims",
+      "accidentals",
+      "combiningStaffPositions"
+    ],
+    "code": 62997,
+    "codepoint": "U+F615",
+    "description": "1/4 tone high, Double sharp",
+    "ekmelily": {},
+    "ligature": [
+      "accidentalSims4Up",
+      "accidentalDoubleSharp"
+    ]
+  },
+  "accidentalSimsLig4UpFlat": {
+    "block": "F400",
+    "classes": [
+      "accidentalsSims",
+      "accidentals",
+      "combiningStaffPositions"
+    ],
+    "code": 62985,
+    "codepoint": "U+F609",
+    "description": "1/4 tone high, Flat",
+    "ekmelily": {},
+    "ligature": [
+      "accidentalSims4Up",
+      "accidentalFlat"
+    ]
+  },
+  "accidentalSimsLig4UpSharp": {
+    "block": "F400",
+    "classes": [
+      "accidentalsSims",
+      "accidentals",
+      "combiningStaffPositions"
+    ],
+    "code": 62989,
+    "codepoint": "U+F60D",
+    "description": "1/4 tone high, Sharp",
+    "ekmelily": {},
+    "ligature": [
+      "accidentalSims4Up",
+      "accidentalSharp"
+    ]
+  },
+  "accidentalSimsLig6DownDoubleFlat": {
+    "block": "F400",
+    "classes": [
+      "accidentalsSims",
+      "accidentals",
+      "combiningStaffPositions"
+    ],
+    "code": 62990,
+    "codepoint": "U+F60E",
+    "description": "1/6 tone low, Double flat",
+    "ekmelily": {},
+    "ligature": [
+      "accidentalSims6Down",
+      "accidentalDoubleFlat"
+    ]
+  },
+  "accidentalSimsLig6DownFlat": {
+    "block": "F400",
+    "classes": [
+      "accidentalsSims",
+      "accidentals",
+      "combiningStaffPositions"
+    ],
+    "code": 62982,
+    "codepoint": "U+F606",
+    "description": "1/6 tone low, Flat",
+    "ekmelily": {},
+    "ligature": [
+      "accidentalSims6Down",
+      "accidentalFlat"
+    ]
+  },
+  "accidentalSimsLig6DownSharp": {
+    "block": "F400",
+    "classes": [
+      "accidentalsSims",
+      "accidentals",
+      "combiningStaffPositions"
+    ],
+    "code": 62986,
+    "codepoint": "U+F60A",
+    "description": "1/6 tone low, Sharp",
+    "ekmelily": {},
+    "ligature": [
+      "accidentalSims6Down",
+      "accidentalSharp"
+    ]
+  },
+  "accidentalSimsLig6UpDoubleFlat": {
+    "block": "F400",
+    "classes": [
+      "accidentalsSims",
+      "accidentals",
+      "combiningStaffPositions"
+    ],
+    "code": 62992,
+    "codepoint": "U+F610",
+    "description": "1/6 tone high, Double flat",
+    "ekmelily": {},
+    "ligature": [
+      "accidentalSims6Up",
+      "accidentalDoubleFlat"
+    ]
+  },
+  "accidentalSimsLig6UpFlat": {
+    "block": "F400",
+    "classes": [
+      "accidentalsSims",
+      "accidentals",
+      "combiningStaffPositions"
+    ],
+    "code": 62984,
+    "codepoint": "U+F608",
+    "description": "1/6 tone high, Flat",
+    "ekmelily": {},
+    "ligature": [
+      "accidentalSims6Up",
+      "accidentalFlat"
+    ]
+  },
+  "accidentalSimsLig6UpSharp": {
+    "block": "F400",
+    "classes": [
+      "accidentalsSims",
+      "accidentals",
+      "combiningStaffPositions"
+    ],
+    "code": 62988,
+    "codepoint": "U+F60C",
+    "description": "1/6 tone high, Sharp",
+    "ekmelily": {},
+    "ligature": [
+      "accidentalSims6Up",
+      "accidentalSharp"
+    ]
+  },
+  "accidentalSori": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsPersian"
+    ],
+    "code": 58465,
+    "codepoint": "U+E461",
+    "description": "Sori (quarter tone sharp)",
+    "ekmelily": {}
+  },
+  "accidentalTavenerFlat": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58487,
+    "codepoint": "U+E477",
+    "description": "Byzantine-style Bakiye flat (Tavener)",
+    "ekmelily": {}
+  },
+  "accidentalTavenerSharp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58486,
+    "codepoint": "U+E476",
+    "description": "Byzantine-style Bu\u0308yu\u0308k mu\u0308cenneb sharp (Tavener)",
+    "ekmelily": {}
+  },
+  "accidentalThreeQuarterTonesFlatArrowDown": {
+    "alternateCodepoint": "U+1D12D",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals24EDOArrows"
+    ],
+    "code": 57969,
+    "codepoint": "U+E271",
+    "description": "Three-quarter-tones flat",
+    "ekmelily": {
+      "go": 20,
+      "gos": 18,
+      "gost": 18
+    }
+  },
+  "accidentalThreeQuarterTonesFlatArrowUp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals24EDOArrows"
+    ],
+    "code": 57976,
+    "codepoint": "U+E278",
+    "description": "Three-quarter-tones flat",
+    "ekmelily": {
+      "go": 22,
+      "gos": 24,
+      "gost": 24
+    }
+  },
+  "accidentalThreeQuarterTonesFlatCouper": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58505,
+    "codepoint": "U+E489",
+    "description": "Three-quarter-tones flat (Couper)",
+    "ekmelily": {
+      "stc": 20
+    }
+  },
+  "accidentalThreeQuarterTonesFlatGrisey": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58502,
+    "codepoint": "U+E486",
+    "description": "Three-quarter-tones flat (Grisey)",
+    "ekmelily": {}
+  },
+  "accidentalThreeQuarterTonesFlatTartini": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58503,
+    "codepoint": "U+E487",
+    "description": "Three-quarter-tones flat (Tartini)",
+    "ekmelily": {
+      "stvt": 20
+    }
+  },
+  "accidentalThreeQuarterTonesFlatZimmermann": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSteinZimmermann"
+    ],
+    "code": 57985,
+    "codepoint": "U+E281",
+    "description": "Reversed flat and flat (three-quarter-tones flat) (Zimmermann)",
+    "ekmelily": {}
+  },
+  "accidentalThreeQuarterTonesSharpArrowDown": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals24EDOArrows"
+    ],
+    "code": 57975,
+    "codepoint": "U+E277",
+    "description": "Three-quarter-tones sharp",
+    "ekmelily": {
+      "go": 21,
+      "gos": 23,
+      "gost": 23
+    }
+  },
+  "accidentalThreeQuarterTonesSharpArrowUp": {
+    "alternateCodepoint": "U+1D130",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals24EDOArrows"
+    ],
+    "code": 57972,
+    "codepoint": "U+E274",
+    "description": "Three-quarter-tones sharp",
+    "ekmelily": {
+      "go": 19,
+      "gos": 17,
+      "gost": 17
+    }
+  },
+  "accidentalThreeQuarterTonesSharpBusotti": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58484,
+    "codepoint": "U+E474",
+    "description": "Three quarter tones sharp (Bussotti)",
+    "ekmelily": {}
+  },
+  "accidentalThreeQuarterTonesSharpStein": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsSteinZimmermann"
+    ],
+    "code": 57987,
+    "codepoint": "U+E283",
+    "description": "One and a half sharps (three-quarter-tones sharp) (Stein)",
+    "ekmelily": {
+      "gost": 19,
+      "stc": 19,
+      "stvt": 19,
+      "stz": 19
+    }
+  },
+  "accidentalThreeQuarterTonesSharpStockhausen": {
+    "block": "E000",
+    "classes": [
+      "accidentals",
+      "accidentalsStockhausen"
+    ],
+    "code": 60762,
+    "codepoint": "U+ED5A",
+    "description": "Three-quarter-tones sharp (Stockhausen)",
+    "ekmelily": {}
+  },
+  "accidentalTripleFlat": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsStandard"
+    ],
+    "code": 57958,
+    "codepoint": "U+E266",
+    "description": "Triple flat",
+    "ekmelily": {}
+  },
+  "accidentalTripleSharp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentalsStandard"
+    ],
+    "code": 57957,
+    "codepoint": "U+E265",
+    "description": "Triple sharp",
+    "ekmelily": {}
+  },
+  "accidentalTwoThirdTonesFlatFerneyhough": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58509,
+    "codepoint": "U+E48D",
+    "description": "Two-third-tones flat (Ferneyhough)",
+    "ekmelily": {
+      "fern": 18
+    }
+  },
+  "accidentalTwoThirdTonesSharpFerneyhough": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58508,
+    "codepoint": "U+E48C",
+    "description": "Two-third-tones sharp (Ferneyhough)",
+    "ekmelily": {
+      "fern": 17
+    }
+  },
+  "accidentalWilsonMinus": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58492,
+    "codepoint": "U+E47C",
+    "description": "Wilson minus (5 comma down)",
+    "ekmelily": {
+      "arrow": 2,
+      "fern": 2,
+      "four": 2,
+      "go": 2,
+      "gos": 2,
+      "gost": 2,
+      "stc": 2,
+      "stvt": 2,
+      "stz": 2
+    }
+  },
+  "accidentalWilsonPlus": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58491,
+    "codepoint": "U+E47B",
+    "description": "Wilson plus (5 comma up)",
+    "ekmelily": {
+      "arrow": 1,
+      "fern": 1,
+      "four": 1,
+      "go": 1,
+      "gos": 1,
+      "gost": 1,
+      "stc": 1,
+      "stvt": 1,
+      "stz": 1
+    }
+  },
+  "accidentalWyschnegradsky10TwelfthsFlat": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58420,
+    "codepoint": "U+E434",
+    "description": "5/6 tone flat",
+    "ekmelily": {
+      "wys": 24
+    }
+  },
+  "accidentalWyschnegradsky10TwelfthsSharp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58409,
+    "codepoint": "U+E429",
+    "description": "5/6 tone sharp",
+    "ekmelily": {
+      "wys": 23
+    }
+  },
+  "accidentalWyschnegradsky11TwelfthsFlat": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58421,
+    "codepoint": "U+E435",
+    "description": "11/12 tone flat",
+    "ekmelily": {
+      "wys": 26
+    }
+  },
+  "accidentalWyschnegradsky11TwelfthsSharp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58410,
+    "codepoint": "U+E42A",
+    "description": "11/12 tone sharp",
+    "ekmelily": {
+      "wys": 25
+    }
+  },
+  "accidentalWyschnegradsky1TwelfthsFlat": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58411,
+    "codepoint": "U+E42B",
+    "description": "1/12 tone flat",
+    "ekmelily": {
+      "wys": 2
+    }
+  },
+  "accidentalWyschnegradsky1TwelfthsSharp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58400,
+    "codepoint": "U+E420",
+    "description": "1/12 tone sharp",
+    "ekmelily": {
+      "wys": 1
+    }
+  },
+  "accidentalWyschnegradsky2TwelfthsFlat": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58412,
+    "codepoint": "U+E42C",
+    "description": "1/6 tone flat",
+    "ekmelily": {
+      "wys": 4
+    }
+  },
+  "accidentalWyschnegradsky2TwelfthsSharp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58401,
+    "codepoint": "U+E421",
+    "description": "1/6 tone sharp",
+    "ekmelily": {
+      "wys": 3
+    }
+  },
+  "accidentalWyschnegradsky3TwelfthsFlat": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58413,
+    "codepoint": "U+E42D",
+    "description": "1/4 tone flat",
+    "ekmelily": {
+      "wys": 8
+    }
+  },
+  "accidentalWyschnegradsky3TwelfthsSharp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58402,
+    "codepoint": "U+E422",
+    "description": "1/4 tone sharp",
+    "ekmelily": {
+      "wys": 5
+    }
+  },
+  "accidentalWyschnegradsky4TwelfthsFlat": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58414,
+    "codepoint": "U+E42E",
+    "description": "1/3 tone flat",
+    "ekmelily": {
+      "wys": 10
+    }
+  },
+  "accidentalWyschnegradsky4TwelfthsSharp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58403,
+    "codepoint": "U+E423",
+    "description": "1/3 tone sharp",
+    "ekmelily": {
+      "wys": 9
+    }
+  },
+  "accidentalWyschnegradsky5TwelfthsFlat": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58415,
+    "codepoint": "U+E42F",
+    "description": "5/12 tone flat",
+    "ekmelily": {
+      "wys": 12
+    }
+  },
+  "accidentalWyschnegradsky5TwelfthsSharp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58404,
+    "codepoint": "U+E424",
+    "description": "5/12 tone sharp",
+    "ekmelily": {
+      "wys": 11
+    }
+  },
+  "accidentalWyschnegradsky6TwelfthsFlat": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58416,
+    "codepoint": "U+E430",
+    "description": "1/2 tone flat",
+    "ekmelily": {
+      "wys": 14
+    }
+  },
+  "accidentalWyschnegradsky6TwelfthsSharp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58405,
+    "codepoint": "U+E425",
+    "description": "1/2 tone sharp",
+    "ekmelily": {
+      "wys": 13
+    }
+  },
+  "accidentalWyschnegradsky7TwelfthsFlat": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58417,
+    "codepoint": "U+E431",
+    "description": "7/12 tone flat",
+    "ekmelily": {
+      "wys": 16
+    }
+  },
+  "accidentalWyschnegradsky7TwelfthsSharp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58406,
+    "codepoint": "U+E426",
+    "description": "7/12 tone sharp",
+    "ekmelily": {
+      "wys": 15
+    }
+  },
+  "accidentalWyschnegradsky8TwelfthsFlat": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58418,
+    "codepoint": "U+E432",
+    "description": "2/3 tone flat",
+    "ekmelily": {
+      "wys": 18
+    }
+  },
+  "accidentalWyschnegradsky8TwelfthsSharp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58407,
+    "codepoint": "U+E427",
+    "description": "2/3 tone sharp",
+    "ekmelily": {
+      "wys": 17
+    }
+  },
+  "accidentalWyschnegradsky9TwelfthsFlat": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58419,
+    "codepoint": "U+E433",
+    "description": "3/4 tone flat",
+    "ekmelily": {
+      "wys": 20
+    }
+  },
+  "accidentalWyschnegradsky9TwelfthsSharp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals",
+      "accidentals72EDOWyschnegradsky"
+    ],
+    "code": 58408,
+    "codepoint": "U+E428",
+    "description": "3/4 tone sharp",
+    "ekmelily": {
+      "wys": 19
+    }
+  },
+  "accidentalXenakisOneThirdToneSharp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58480,
+    "codepoint": "U+E470",
+    "description": "One-third-tone sharp (Xenakis)",
+    "ekmelily": {}
+  },
+  "accidentalXenakisTwoThirdTonesSharp": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "accidentals"
+    ],
+    "code": 58481,
+    "codepoint": "U+E471",
+    "description": "Two-third-tones sharp (Xenakis)",
+    "ekmelily": {}
+  },
+  "asciicircum": {
+    "block": "0000",
+    "classes": [
+      "symbol"
+    ],
+    "code": 94,
+    "codepoint": "U+005E",
+    "description": "Circumflex accent",
+    "ekmelily": {}
+  },
+  "asciitilde": {
+    "block": "0000",
+    "classes": [
+      "symbol"
+    ],
+    "code": 126,
+    "codepoint": "U+007E",
+    "description": "Tilde",
+    "ekmelily": {}
+  },
+  "asterisk": {
+    "block": "0000",
+    "classes": [
+      "punctuation"
+    ],
+    "code": 42,
+    "codepoint": "U+002A",
+    "description": "Asterisk",
+    "ekmelily": {}
+  },
+  "augmentationDot": {
+    "alternateCodepoint": "U+1D16D",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "forTextBasedApplications"
+    ],
+    "code": 57831,
+    "codepoint": "U+E1E7",
+    "description": "Augmentation dot",
+    "ekmelily": {}
+  },
+  "b": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 98,
+    "codepoint": "U+0062",
+    "description": "Latin small letter b",
+    "ekmelily": {}
+  },
+  "backslash": {
+    "block": "0000",
+    "classes": [
+      "punctuation"
+    ],
+    "code": 92,
+    "codepoint": "U+005C",
+    "description": "Reverse solidus",
+    "ekmelily": {}
+  },
+  "bar": {
+    "block": "0000",
+    "classes": [
+      "symbol"
+    ],
+    "code": 124,
+    "codepoint": "U+007C",
+    "description": "Vertical line",
+    "ekmelily": {}
+  },
+  "barlineDouble": {
+    "alternateCodepoint": "U+1D101",
+    "block": "E000",
+    "classes": [
+      "forTextBasedApplications"
+    ],
+    "code": 57393,
+    "codepoint": "U+E031",
+    "description": "Double barline",
+    "ekmelily": {}
+  },
+  "barlineFinal": {
+    "alternateCodepoint": "U+1D102",
+    "block": "E000",
+    "classes": [
+      "forTextBasedApplications"
+    ],
+    "code": 57394,
+    "codepoint": "U+E032",
+    "description": "Final barline",
+    "ekmelily": {}
+  },
+  "barlineSingle": {
+    "alternateCodepoint": "U+1D100",
+    "block": "E000",
+    "classes": [
+      "forTextBasedApplications"
+    ],
+    "code": 57392,
+    "codepoint": "U+E030",
+    "description": "Single barline",
+    "ekmelily": {}
+  },
+  "braceleft": {
+    "block": "0000",
+    "classes": [
+      "punctuation"
+    ],
+    "code": 123,
+    "codepoint": "U+007B",
+    "description": "Left curly bracket",
+    "ekmelily": {}
+  },
+  "braceright": {
+    "block": "0000",
+    "classes": [
+      "punctuation"
+    ],
+    "code": 125,
+    "codepoint": "U+007D",
+    "description": "Right curly bracket",
+    "ekmelily": {}
+  },
+  "bracketleft": {
+    "block": "0000",
+    "classes": [
+      "punctuation"
+    ],
+    "code": 91,
+    "codepoint": "U+005B",
+    "description": "Left square bracket",
+    "ekmelily": {}
+  },
+  "bracketright": {
+    "block": "0000",
+    "classes": [
+      "punctuation"
+    ],
+    "code": 93,
+    "codepoint": "U+005D",
+    "description": "Right square bracket",
+    "ekmelily": {}
+  },
+  "c": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 99,
+    "codepoint": "U+0063",
+    "description": "Latin small letter c",
+    "ekmelily": {}
+  },
+  "cClef": {
+    "alternateCodepoint": "U+1D121",
+    "block": "E000",
+    "classes": [
+      "clefsC",
+      "clefs"
+    ],
+    "code": 57436,
+    "codepoint": "U+E05C",
+    "description": "C clef",
+    "ekmelily": {}
+  },
+  "colon": {
+    "block": "0000",
+    "classes": [
+      "punctuation"
+    ],
+    "code": 58,
+    "codepoint": "U+003A",
+    "description": "Colon",
+    "ekmelily": {}
+  },
+  "comma": {
+    "block": "0000",
+    "classes": [
+      "punctuation"
+    ],
+    "code": 44,
+    "codepoint": "U+002C",
+    "description": "Comma",
+    "ekmelily": {}
+  },
+  "d": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 100,
+    "codepoint": "U+0064",
+    "description": "Latin small letter d",
+    "ekmelily": {}
+  },
+  "e": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 101,
+    "codepoint": "U+0065",
+    "description": "Latin small letter e",
+    "ekmelily": {}
+  },
+  "eighthnote": {
+    "block": "2600",
+    "classes": [],
+    "code": 9834,
+    "codepoint": "U+266A",
+    "description": "Eighth note (quaver) stem up",
+    "ekmelily": {}
+  },
+  "equal": {
+    "block": "0000",
+    "classes": [
+      "symbol"
+    ],
+    "code": 61,
+    "codepoint": "U+003D",
+    "description": "Equals sign",
+    "ekmelily": {}
+  },
+  "exclam": {
+    "block": "0000",
+    "classes": [
+      "punctuation"
+    ],
+    "code": 33,
+    "codepoint": "U+0021",
+    "description": "Exclamation mark",
+    "ekmelily": {}
+  },
+  "f": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 102,
+    "codepoint": "U+0066",
+    "description": "Latin small letter f",
+    "ekmelily": {}
+  },
+  "fClef": {
+    "alternateCodepoint": "U+1D122",
+    "block": "E000",
+    "classes": [
+      "clefsF",
+      "clefs"
+    ],
+    "code": 57442,
+    "codepoint": "U+E062",
+    "description": "F clef",
+    "ekmelily": {}
+  },
+  "flag16thDown": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions"
+    ],
+    "code": 57923,
+    "codepoint": "U+E243",
+    "description": "Combining flag 2 (16th) below",
+    "ekmelily": {}
+  },
+  "flag16thUp": {
+    "alternateCodepoint": "U+1D16F",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions"
+    ],
+    "code": 57922,
+    "codepoint": "U+E242",
+    "description": "Combining flag 2 (16th) above",
+    "ekmelily": {}
+  },
+  "flag8thDown": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions"
+    ],
+    "code": 57921,
+    "codepoint": "U+E241",
+    "description": "Combining flag 1 (8th) below",
+    "ekmelily": {}
+  },
+  "flag8thUp": {
+    "alternateCodepoint": "U+1D16E",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions"
+    ],
+    "code": 57920,
+    "codepoint": "U+E240",
+    "description": "Combining flag 1 (8th) above",
+    "ekmelily": {}
+  },
+  "g": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 103,
+    "codepoint": "U+0067",
+    "description": "Latin small letter g",
+    "ekmelily": {}
+  },
+  "gClef": {
+    "alternateCodepoint": "U+1D11E",
+    "block": "E000",
+    "classes": [
+      "clefsG",
+      "clefs"
+    ],
+    "code": 57424,
+    "codepoint": "U+E050",
+    "description": "G clef",
+    "ekmelily": {}
+  },
+  "greater": {
+    "block": "0000",
+    "classes": [
+      "symbol"
+    ],
+    "code": 62,
+    "codepoint": "U+003E",
+    "description": "Greater-than sign",
+    "ekmelily": {}
+  },
+  "h": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 104,
+    "codepoint": "U+0068",
+    "description": "Latin small letter h",
+    "ekmelily": {}
+  },
+  "hyphen": {
+    "block": "0000",
+    "classes": [
+      "punctuation"
+    ],
+    "code": 45,
+    "codepoint": "U+002D",
+    "description": "Hyphen-minus",
+    "ekmelily": {}
+  },
+  "i": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 105,
+    "codepoint": "U+0069",
+    "description": "Latin small letter i",
+    "ekmelily": {}
+  },
+  "j": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 106,
+    "codepoint": "U+006A",
+    "description": "Latin small letter j",
+    "ekmelily": {}
+  },
+  "k": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 107,
+    "codepoint": "U+006B",
+    "description": "Latin small letter k",
+    "ekmelily": {}
+  },
+  "l": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 108,
+    "codepoint": "U+006C",
+    "description": "Latin small letter l",
+    "ekmelily": {}
+  },
+  "legerLine": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "tf_zeroWidth"
+    ],
+    "code": 57378,
+    "codepoint": "U+E022",
+    "description": "Leger line",
+    "ekmelily": {}
+  },
+  "legerLineWide": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "tf_zeroWidth"
+    ],
+    "code": 57379,
+    "codepoint": "U+E023",
+    "description": "Leger line (wide)",
+    "ekmelily": {}
+  },
+  "less": {
+    "block": "0000",
+    "classes": [
+      "symbol"
+    ],
+    "code": 60,
+    "codepoint": "U+003C",
+    "description": "Less-than sign",
+    "ekmelily": {}
+  },
+  "m": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 109,
+    "codepoint": "U+006D",
+    "description": "Latin small letter m",
+    "ekmelily": {}
+  },
+  "musicflatsign": {
+    "block": "2600",
+    "classes": [],
+    "code": 9837,
+    "codepoint": "U+266D",
+    "description": "Flat",
+    "ekmelily": {}
+  },
+  "musicnaturalsign": {
+    "block": "2600",
+    "classes": [],
+    "code": 9838,
+    "codepoint": "U+266E",
+    "description": "Natural",
+    "ekmelily": {}
+  },
+  "musicsharpsign": {
+    "block": "2600",
+    "classes": [],
+    "code": 9839,
+    "codepoint": "U+266F",
+    "description": "Sharp",
+    "ekmelily": {}
+  },
+  "n": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 110,
+    "codepoint": "U+006E",
+    "description": "Latin small letter n",
+    "ekmelily": {}
+  },
+  "note16thDown": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "forTextBasedApplications"
+    ],
+    "code": 57818,
+    "codepoint": "U+E1DA",
+    "description": "16th note (semiquaver) stem down",
+    "ekmelily": {}
+  },
+  "note16thUp": {
+    "alternateCodepoint": "U+1D161",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "forTextBasedApplications"
+    ],
+    "code": 57817,
+    "codepoint": "U+E1D9",
+    "description": "16th note (semiquaver) stem up",
+    "ekmelily": {}
+  },
+  "note8thDown": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "forTextBasedApplications"
+    ],
+    "code": 57816,
+    "codepoint": "U+E1D8",
+    "description": "Eighth note (quaver) stem down",
+    "ekmelily": {}
+  },
+  "note8thUp": {
+    "alternateCodepoint": "U+1D160",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "forTextBasedApplications"
+    ],
+    "code": 57815,
+    "codepoint": "U+E1D7",
+    "description": "Eighth note (quaver) stem up",
+    "ekmelily": {}
+  },
+  "noteDoubleWhole": {
+    "alternateCodepoint": "U+1D15C",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "forTextBasedApplications"
+    ],
+    "code": 57808,
+    "codepoint": "U+E1D0",
+    "description": "Double whole note (breve)",
+    "ekmelily": {}
+  },
+  "noteDoubleWholeSquare": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "forTextBasedApplications"
+    ],
+    "code": 57809,
+    "codepoint": "U+E1D1",
+    "description": "Double whole note (square)",
+    "ekmelily": {}
+  },
+  "noteHalfDown": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "forTextBasedApplications"
+    ],
+    "code": 57812,
+    "codepoint": "U+E1D4",
+    "description": "Half note (minim) stem down",
+    "ekmelily": {}
+  },
+  "noteHalfUp": {
+    "alternateCodepoint": "U+1D15E",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "forTextBasedApplications"
+    ],
+    "code": 57811,
+    "codepoint": "U+E1D3",
+    "description": "Half note (minim) stem up",
+    "ekmelily": {}
+  },
+  "noteQuarterDown": {
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "forTextBasedApplications"
+    ],
+    "code": 57814,
+    "codepoint": "U+E1D6",
+    "description": "Quarter note (crotchet) stem down",
+    "ekmelily": {}
+  },
+  "noteQuarterUp": {
+    "alternateCodepoint": "U+1D15F",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "forTextBasedApplications"
+    ],
+    "code": 57813,
+    "codepoint": "U+E1D5",
+    "description": "Quarter note (crotchet) stem up",
+    "ekmelily": {}
+  },
+  "noteWhole": {
+    "alternateCodepoint": "U+1D15D",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "forTextBasedApplications"
+    ],
+    "code": 57810,
+    "codepoint": "U+E1D2",
+    "description": "Whole note (semibreve)",
+    "ekmelily": {}
+  },
+  "noteheadBlack": {
+    "alternateCodepoint": "U+1D158",
+    "block": "E000",
+    "classes": [
+      "noteheads",
+      "combiningStaffPositions",
+      "noteheadSetDefault"
+    ],
+    "code": 57508,
+    "codepoint": "U+E0A4",
+    "description": "Black notehead",
+    "ekmelily": {}
+  },
+  "noteheadHalf": {
+    "alternateCodepoint": "U+1D157",
+    "block": "E000",
+    "classes": [
+      "noteheads",
+      "combiningStaffPositions",
+      "noteheadSetDefault"
+    ],
+    "code": 57507,
+    "codepoint": "U+E0A3",
+    "description": "Half (minim) notehead",
+    "ekmelily": {}
+  },
+  "noteheadWhole": {
+    "block": "E000",
+    "classes": [
+      "noteheads",
+      "combiningStaffPositions",
+      "noteheadSetDefault"
+    ],
+    "code": 57506,
+    "codepoint": "U+E0A2",
+    "description": "Whole (semibreve) notehead",
+    "ekmelily": {}
+  },
+  "numbersign": {
+    "block": "0000",
+    "classes": [
+      "punctuation"
+    ],
+    "code": 35,
+    "codepoint": "U+0023",
+    "description": "Number sign",
+    "ekmelily": {}
+  },
+  "o": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 111,
+    "codepoint": "U+006F",
+    "description": "Latin small letter o",
+    "ekmelily": {}
+  },
+  "p": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 112,
+    "codepoint": "U+0070",
+    "description": "Latin small letter p",
+    "ekmelily": {}
+  },
+  "parenleft": {
+    "block": "0000",
+    "classes": [
+      "punctuation"
+    ],
+    "code": 40,
+    "codepoint": "U+0028",
+    "description": "Left parenthesis",
+    "ekmelily": {}
+  },
+  "parenright": {
+    "block": "0000",
+    "classes": [
+      "punctuation"
+    ],
+    "code": 41,
+    "codepoint": "U+0029",
+    "description": "Right parenthesis",
+    "ekmelily": {}
+  },
+  "period": {
+    "block": "0000",
+    "classes": [
+      "punctuation"
+    ],
+    "code": 46,
+    "codepoint": "U+002E",
+    "description": "Full stop",
+    "ekmelily": {}
+  },
+  "plus": {
+    "block": "0000",
+    "classes": [
+      "symbol"
+    ],
+    "code": 43,
+    "codepoint": "U+002B",
+    "description": "Plus sign",
+    "ekmelily": {}
+  },
+  "q": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 113,
+    "codepoint": "U+0071",
+    "description": "Latin small letter q",
+    "ekmelily": {}
+  },
+  "quarternote": {
+    "block": "2600",
+    "classes": [],
+    "code": 9833,
+    "codepoint": "U+2669",
+    "description": "Quarter note (crotchet) stem up",
+    "ekmelily": {}
+  },
+  "quotedbl": {
+    "block": "0000",
+    "classes": [
+      "punctuation"
+    ],
+    "code": 34,
+    "codepoint": "U+0022",
+    "description": "Quotation mark",
+    "ekmelily": {}
+  },
+  "quotesingle": {
+    "block": "0000",
+    "classes": [
+      "punctuation"
+    ],
+    "code": 39,
+    "codepoint": "U+0027",
+    "description": "Apostrophe",
+    "ekmelily": {}
+  },
+  "r": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 114,
+    "codepoint": "U+0072",
+    "description": "Latin small letter r",
+    "ekmelily": {}
+  },
+  "rest16th": {
+    "alternateCodepoint": "U+1D13F",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "rests"
+    ],
+    "code": 58599,
+    "codepoint": "U+E4E7",
+    "description": "16th (semiquaver) rest",
+    "ekmelily": {}
+  },
+  "rest8th": {
+    "alternateCodepoint": "U+1D13E",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "rests"
+    ],
+    "code": 58598,
+    "codepoint": "U+E4E6",
+    "description": "Eighth (quaver) rest",
+    "ekmelily": {}
+  },
+  "restHalf": {
+    "alternateCodepoint": "U+1D13C",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "rests"
+    ],
+    "code": 58596,
+    "codepoint": "U+E4E4",
+    "description": "Half (minim) rest",
+    "ekmelily": {}
+  },
+  "restQuarter": {
+    "alternateCodepoint": "U+1D13D",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "rests"
+    ],
+    "code": 58597,
+    "codepoint": "U+E4E5",
+    "description": "Quarter (crotchet) rest",
+    "ekmelily": {}
+  },
+  "restWhole": {
+    "alternateCodepoint": "U+1D13B",
+    "block": "E000",
+    "classes": [
+      "combiningStaffPositions",
+      "rests"
+    ],
+    "code": 58595,
+    "codepoint": "U+E4E3",
+    "description": "Whole (semibreve) rest",
+    "ekmelily": {}
+  },
+  "s": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 115,
+    "codepoint": "U+0073",
+    "description": "Latin small letter s",
+    "ekmelily": {}
+  },
+  "semicolon": {
+    "block": "0000",
+    "classes": [
+      "punctuation"
+    ],
+    "code": 59,
+    "codepoint": "U+003B",
+    "description": "Semicolon",
+    "ekmelily": {}
+  },
+  "slash": {
+    "block": "0000",
+    "classes": [
+      "punctuation"
+    ],
+    "code": 47,
+    "codepoint": "U+002F",
+    "description": "Solidus",
+    "ekmelily": {}
+  },
+  "space": {
+    "block": "0000",
+    "classes": [
+      "separator"
+    ],
+    "code": 32,
+    "codepoint": "U+0020",
+    "description": "Space",
+    "ekmelily": {}
+  },
+  "staff5Lines": {
+    "alternateCodepoint": "U+1D11A",
+    "block": "E000",
+    "classes": [
+      "tf_zeroWidth",
+      "forTextBasedApplications"
+    ],
+    "code": 57364,
+    "codepoint": "U+E014",
+    "description": "5-line staff",
+    "ekmelily": {}
+  },
+  "staff5LinesNarrow": {
+    "block": "E000",
+    "classes": [
+      "tf_zeroWidth",
+      "forTextBasedApplications"
+    ],
+    "code": 57376,
+    "codepoint": "U+E020",
+    "description": "5-line staff (narrow)",
+    "ekmelily": {}
+  },
+  "staff5LinesWide": {
+    "block": "E000",
+    "classes": [
+      "tf_zeroWidth",
+      "forTextBasedApplications"
+    ],
+    "code": 57370,
+    "codepoint": "U+E01A",
+    "description": "5-line staff (wide)",
+    "ekmelily": {}
+  },
+  "t": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 116,
+    "codepoint": "U+0074",
+    "description": "Latin small letter t",
+    "ekmelily": {}
+  },
+  "u": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 117,
+    "codepoint": "U+0075",
+    "description": "Latin small letter u",
+    "ekmelily": {}
+  },
+  "u1D100": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119040,
+    "codepoint": "U+1D100",
+    "description": "Single barline",
+    "ekmelily": {}
+  },
+  "u1D101": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119041,
+    "codepoint": "U+1D101",
+    "description": "Double barline",
+    "ekmelily": {}
+  },
+  "u1D102": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119042,
+    "codepoint": "U+1D102",
+    "description": "Final barline",
+    "ekmelily": {}
+  },
+  "u1D11A": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119066,
+    "codepoint": "U+1D11A",
+    "description": "5-line staff",
+    "ekmelily": {}
+  },
+  "u1D11E": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119070,
+    "codepoint": "U+1D11E",
+    "description": "G clef",
+    "ekmelily": {}
+  },
+  "u1D121": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119073,
+    "codepoint": "U+1D121",
+    "description": "C clef",
+    "ekmelily": {}
+  },
+  "u1D122": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119074,
+    "codepoint": "U+1D122",
+    "description": "F clef",
+    "ekmelily": {}
+  },
+  "u1D12A": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119082,
+    "codepoint": "U+1D12A",
+    "description": "Double sharp",
+    "ekmelily": {}
+  },
+  "u1D12B": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119083,
+    "codepoint": "U+1D12B",
+    "description": "Double flat",
+    "ekmelily": {}
+  },
+  "u1D12C": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119084,
+    "codepoint": "U+1D12C",
+    "description": "Quarter-tone flat",
+    "ekmelily": {}
+  },
+  "u1D12D": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119085,
+    "codepoint": "U+1D12D",
+    "description": "Three-quarter-tones flat",
+    "ekmelily": {}
+  },
+  "u1D12E": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119086,
+    "codepoint": "U+1D12E",
+    "description": "Quarter-tone sharp",
+    "ekmelily": {}
+  },
+  "u1D12F": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119087,
+    "codepoint": "U+1D12F",
+    "description": "Quarter-tone flat",
+    "ekmelily": {}
+  },
+  "u1D130": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119088,
+    "codepoint": "U+1D130",
+    "description": "Three-quarter-tones sharp",
+    "ekmelily": {}
+  },
+  "u1D131": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119089,
+    "codepoint": "U+1D131",
+    "description": "Quarter-tone sharp",
+    "ekmelily": {}
+  },
+  "u1D132": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119090,
+    "codepoint": "U+1D132",
+    "description": "Quarter-tone sharp",
+    "ekmelily": {}
+  },
+  "u1D133": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119091,
+    "codepoint": "U+1D133",
+    "description": "Quarter-tone flat",
+    "ekmelily": {}
+  },
+  "u1D13B": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119099,
+    "codepoint": "U+1D13B",
+    "description": "Whole (semibreve) rest",
+    "ekmelily": {}
+  },
+  "u1D13C": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119100,
+    "codepoint": "U+1D13C",
+    "description": "Half (minim) rest",
+    "ekmelily": {}
+  },
+  "u1D13D": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119101,
+    "codepoint": "U+1D13D",
+    "description": "Quarter (crotchet) rest",
+    "ekmelily": {}
+  },
+  "u1D13E": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119102,
+    "codepoint": "U+1D13E",
+    "description": "Eighth (quaver) rest",
+    "ekmelily": {}
+  },
+  "u1D13F": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119103,
+    "codepoint": "U+1D13F",
+    "description": "16th (semiquaver) rest",
+    "ekmelily": {}
+  },
+  "u1D157": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119127,
+    "codepoint": "U+1D157",
+    "description": "Half (minim) notehead",
+    "ekmelily": {}
+  },
+  "u1D158": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119128,
+    "codepoint": "U+1D158",
+    "description": "Black notehead",
+    "ekmelily": {}
+  },
+  "u1D15C": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119132,
+    "codepoint": "U+1D15C",
+    "description": "Double whole note (breve)",
+    "ekmelily": {}
+  },
+  "u1D15D": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119133,
+    "codepoint": "U+1D15D",
+    "description": "Whole (semibreve) notehead",
+    "ekmelily": {}
+  },
+  "u1D15E": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119134,
+    "codepoint": "U+1D15E",
+    "description": "Half note (minim) stem up",
+    "ekmelily": {}
+  },
+  "u1D15F": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119135,
+    "codepoint": "U+1D15F",
+    "description": "Quarter note (crotchet) stem up",
+    "ekmelily": {}
+  },
+  "u1D160": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119136,
+    "codepoint": "U+1D160",
+    "description": "Eighth note (quaver) stem up",
+    "ekmelily": {}
+  },
+  "u1D161": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119137,
+    "codepoint": "U+1D161",
+    "description": "16th note (semiquaver) stem up",
+    "ekmelily": {}
+  },
+  "u1D16D": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119149,
+    "codepoint": "U+1D16D",
+    "description": "Augmentation dot",
+    "ekmelily": {}
+  },
+  "u1D16E": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119150,
+    "codepoint": "U+1D16E",
+    "description": "Combining flag 1 (8th) above",
+    "ekmelily": {}
+  },
+  "u1D16F": {
+    "block": "1D100",
+    "classes": [],
+    "code": 119151,
+    "codepoint": "U+1D16F",
+    "description": "Combining flag 2 (16th) above",
+    "ekmelily": {}
+  },
+  "underscore": {
+    "block": "0000",
+    "classes": [
+      "punctuation"
+    ],
+    "code": 95,
+    "codepoint": "U+005F",
+    "description": "Low line",
+    "ekmelily": {}
+  },
+  "v": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 118,
+    "codepoint": "U+0076",
+    "description": "Latin small letter v",
+    "ekmelily": {}
+  },
+  "w": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 119,
+    "codepoint": "U+0077",
+    "description": "Latin small letter w",
+    "ekmelily": {}
+  },
+  "x": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 120,
+    "codepoint": "U+0078",
+    "description": "Latin small letter x",
+    "ekmelily": {}
+  },
+  "y": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 121,
+    "codepoint": "U+0079",
+    "description": "Latin small letter y",
+    "ekmelily": {}
+  },
+  "z": {
+    "block": "0000",
+    "classes": [
+      "letter"
+    ],
+    "code": 122,
+    "codepoint": "U+007A",
+    "description": "Latin small letter z",
+    "ekmelily": {}
+  }
+}

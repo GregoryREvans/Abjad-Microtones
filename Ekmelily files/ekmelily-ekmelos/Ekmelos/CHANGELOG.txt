@@ -1,0 +1,196 @@
+ChangeLog for the Ekmelos font
+==============================
+
+Version 0.1 (1 September 2013)
+- Initial release
+
+Version 0.2 (3 September 2013)
+- Added standard accidentals from LilyPond's Feta font: natural (U+E400), sharp (U+E410), flat (U+E420), doublesharp (U+E41F), flatflat (U+E42F).
+- Added simple arrows (U+E401,U+E402) and double-arrows (U+E403,U+E404).
+- Added arrows with slash (U+E405,U+E406).
+
+Version 0.3 (8 September 2013)
+- Added barbs (half arrows left) (U+E407,U+E408) and Tartini's hook (U+E409,U+E40A).
+- Added combinations of arrows, barbs, and Tartini's hook with sharp (U+E411..U+E41A) and flat (U+E421..U+E42A).
+
+Version 0.4 (9 October 2013)
+- Added special barbs with slash similar to Ezra Sims' notation (U+E40B,U+E40C) and their combinations with sharp and flat.
+
+Version 0.5 (14 October 2013)
+- Reduced width of all arrows and adjusted spacing between signs in combinations.
+
+Version 0.6 (23 October 2013)
+- Enlarged spacing in combinations with barbs, barbs with slash, and Tartini's hook.
+
+Version 0.7 (19 January 2014)
+- Enlarged metrics' width of natural for combination as "extra natural".
+
+Version 1.0 (22 June 2015)
+- Changed code points and glyph names to be compliant with SMuFL version 1.18.
+- Moved standard accidentals:
+  accidentalNatural (U+E261), accidentalFlat (U+E260), accidentalSharp (U+E262), accidentalDoubleSharp (U+E263), accidentalDoubleFlat (U+E264).
+- Moved Sims accidentals (72-EDO):
+  accidentalSims12Down (U+E2A0), accidentalSims6Down (U+E2A1), accidentalSims4Down (U+E2A2), accidentalSims12Up (U+E2A3), accidentalSims6Up (U+E2A4), accidentalSims4Up (U+E2A5).
+- Moved Richter Herf / Maedel accidentals (72-EDO) to optional glyphs area:
+  accidentalRHM12Down (U+F600), accidentalRHM6Down (U+F601), accidentalRHM4Down (U+F602), accidentalRHM12Up (U+F603), accidentalRHM6Up (U+F604), accidentalRHM4Up (U+F605).
+- Added arrows of Gould arrow quartertone accidentals (24-EDO):
+  accidentalArrowUp (U+E27A), accidentalArrowDown (U+E27B).
+- Added slash symbols for 1/12 tone:
+  Bosanquet comma symbols: accidentalCommaSlashUp (U+E479), accidentalCommaSlashDown (U+E47A).
+  Wilson symbols: accidentalWilsonPlus (U+E47B), accidentalWilsonMinus (U+E47C).
+- Removed accidentals in the range U+E400-U+E42F
+- Added ligatures of Sims accidentals for 1/4 and 1/6 tone in optional glyphs area:
+  accidentalSimsLig6DownFlat (U+F606) = accidentalSims6Down + accidentalFlat,
+  accidentalSimsLig4DownFlat (U+F607) = accidentalSims4Down + accidentalFlat,
+  accidentalSimsLig6UpFlat (U+F608) = accidentalSims6Up + accidentalFlat,
+  accidentalSimsLig4UpFlat (U+F609) = accidentalSims4Up + accidentalFlat,
+  accidentalSimsLig6DownSharp (U+F60A) = accidentalSims6Down + accidentalSharp,
+  accidentalSimsLig4DownSharp (U+F60B) = accidentalSims4Down + accidentalSharp,
+  accidentalSimsLig6UpSharp (U+F60C) = accidentalSims6Up + accidentalSharp,
+  accidentalSimsLig4UpSharp (U+F60D) = accidentalSims4Up + accidentalSharp.
+
+Version 1.1 (25 July 2015)
+- Added Gould arrow quartertone accidentals (24-EDO):
+  accidentalQuarterToneFlatArrowUp (U+E270) – accidentalFiveQuarterTonesFlatArrowDown (U+E279).
+- Added Stein-Zimmermann accidentals (24-EDO):
+  accidentalQuarterToneFlatStein (U+E280) – accidentalNarrowReversedFlatAndFlat (U+E285).
+- Added part of Spartan Sagittal single-shaft/multi-shaft accidentals for 72-EDO:
+  accSagittal5CommaUp (U+E302), accSagittal5CommaDown (U+E303), accSagittal7CommaUp (U+E304), accSagittal7CommaDown (U+E305),
+  accSagittal11MediumDiesisUp (U+E30A), accSagittal11MediumDiesisDown (U+E30B),
+  accSagittalSharp7CDown (U+E312), accSagittalFlat7CUp (U+E313), accSagittalSharp5CDown (U+E314), accSagittalFlat5CUp (U+E315),
+  accSagittalSharp (U+E318), accSagittalFlat (U+E319),
+  accSagittalSharp5CUp (U+E31E), accSagittalFlat5CDown (U+E31F), accSagittalSharp7CUp (U+E320), accSagittalFlat7CDown (U+E321),
+  accSagittalSharp11MUp (U+E326), accSagittalFlat11MDown (U+E327),
+  accSagittalDoubleSharp7CDown (U+E32E), accSagittalDoubleFlat7CUp (U+E32F), accSagittalDoubleSharp5CDown (U+E330), accSagittalDoubleFlat5CUp (U+E331),
+  accSagittalDoubleSharp (U+E334), accSagittalDoubleFlat (U+E335).
+- Added Wyschnegradsky accidentals (72-EDO):
+  accidentalWyschnegradsky1TwelfthsSharp (U+E420) – accidentalWyschnegradsky11TwelfthsFlat (U+E435).
+- Added Large double sharp for Mixed Sagittal notation:
+  accidentalLargeDoubleSharp (U+E47D).
+- Added ligatures of Sims accidentals for 1/4 and 1/6 tone in optional glyphs area:
+  accidentalSimsLig6DownDoubleFlat (U+F60E) = accidentalSims6Down + accidentalDoubleFlat,
+  accidentalSimsLig4DownDoubleFlat (U+F60F) = accidentalSims4Down + accidentalDoubleFlat,
+  accidentalSimsLig6UpDoubleFlat (U+F610) = accidentalSims6Up + accidentalDoubleFlat,
+  accidentalSimsLig4UpDoubleFlat (U+F611) = accidentalSims4Up + accidentalDoubleFlat,
+  accidentalSimsLig4DownDoubleSharp (U+F613) = accidentalSims4Down + accidentalDoubleSharp,
+  accidentalSimsLig4UpDoubleSharp (U+F615) = accidentalSims4Up + accidentalDoubleSharp.
+- Reduced slant of Bosanquet comma symbols:
+  accidentalCommaSlashUp, accidentalCommaSlashDown.
+- Added Stein-Zimmermann accidentals (24-EDO):
+  accidentalQuarterToneFlatStein (U+E280) - accidentalNarrowReversedFlatAndFlat (U+E285).
+- Added some quartertone accidentals (24-EDO):
+  accidentalThreeQuarterTonesFlatTartini (U+E487),
+  accidentalQuarterToneFlatVanBlankenburg (U+E488),
+  accidentalThreeQuarterTonesFlatCouper (U+E489).
+
+Version 1.2 (14 January 2016)
+- Changed OS/2 Metrics (according to Bravura): Ascent/Descent = [-]2012, Linegap = 0
+- Changed TeX Metrics (similar to Bravura): Space = 300, Stretch = 150, Shrink = 100
+- Added Extended Stein-Zimmermann accidentals:
+  accidentalReversedFlatArrowUp (U+E290) – accidentalOneAndAHalfSharpsArrowDown (U+E29C).
+- Added Persian accidentals:
+  accidentalKoron (U+E460), accidentalSori (U+E461).
+- Added several other (quartertone, third-tone) accidentals:
+  Xenakis: accidentalXenakisOneThirdToneSharp (U+E470), accidentalXenakisTwoThirdTonesSharp (U+E471),
+  Busotti: accidentalQuarterToneSharpBusotti (U+E472) – accidentalThreeQuarterTonesSharpBusotti (U+E474),
+  accidentalQuarterToneSharpWiggle (U+E475),
+  Tavener: accidentalTavenerSharp (U+E476), accidentalTavenerFlat (U+E477),
+  Penderecki: accidentalQuarterToneFlatPenderecki (U+E478),
+  Symbols with digit 4: accidentalQuarterToneSharp4 (U+E47E), accidentalQuarterToneFlat4 (U+E47F),
+  Reversed symbols: accidentalQuarterToneFlatFilledReversed (U+E480) - accidentalDoubleFlatReversed (U+E483),
+  Turned symbols: accidentalFlatTurned (U+E484), accidentalDoubleFlatTurned (U+E485),
+  Grisey: accidentalThreeQuarterTonesFlatGrisey (U+E486),
+  Ferneyhough: accidentalOneThirdToneSharpFerneyhough (U+E48A) - accidentalTwoThirdTonesFlatFerneyhough (U+E48D).
+
+Version 1.3 (27 January 2016)
+- Added accidental parentheses (U+E26A, U+E26B) for cautionary accidental styles.
+
+Version 1.4 (8 September 2016)
+- Added further Standard accidentals:
+  accidentalTripleSharp (U+E265), accidentalTripleFlat (U+E266),
+  accidentalNaturalFlat (U+E267), accidentalNaturalSharp (U+E268), accidentalSharpSharp (U+E269).
+- Added Johnston accidentals:
+  accidentalJohnstonPlus (U+E2B0) - accidentalJohnston31 (U+E2B7).
+
+Version 1.5 (17 September 2016)
+- Changed vertical position of Johnston accidentals (U+E2B0 - U+E2B5) below/above staff line.
+- Added some Basic Latin (ASCII) punctuation marks:
+  space (U+0020), numbersign (U+0023), parenleft (U+0028), parenright (U+0029),
+  asterisk (U+002A), plus (U+002B), comma (U+002C), hyphen (U+002D), period (U+002E), slash (U+002F),
+  colon (U+003A), semicolon (U+003B), less (U+003C), equals (U+003D), greater (U+003E),
+  bracketleft (U+005B), backslash (U+005C), bracketright (U+005D), asciicircum (U+005E), underscore (U+005F),
+  braceleft (U+007B), verticalbar (U+007C), braceright (U+007D), asciitilde (U+007E).
+- Added decimal digits from LilyPond's Feta font:
+  zero (U+0030) - nine (U+0039).
+- Added latin small letters:
+  a (U+0061) - z (U+007A).
+
+Version 1.6 (8 January 2017)
+- Removed decimal digits: zero (U+0030) - nine (U+0039).
+- Changed glyph of some characters for improved readability:
+  x (U+0078), asterisk (U+002A), braceleft (U+007B), braceright (U+007D).
+
+Version 1.7 (14 January 2017)
+- Completed ligature table for Sims accidentals accidentalSimsLig*
+- Added alternate Standard accidentals in the Unicode Miscellaneous Symbols range:
+  MUSIC FLAT SIGN (U+266D), MUSIC NATURAL SIGN (U+266E), MUSIC SHARP SIGN (U+266F).
+- Added alternate accidentals in the Unicode Musical Symbols range:
+  MUSICAL SYMBOL DOUBLE SHARP (U+1D12A) - MUSICAL SYMBOL QUARTER TONE FLAT (U+1D133).
+- New metadata files metadata.json (replacing ekmelos.json), classes.json,
+  and ekmelily.json (replacing styles.json).
+
+Version 1.8 (18 January 2017)
+- Added Stockhausen accidentals (SMuFL 1.20):
+  accidentalRaisedStockhausen (U+ED50) - accidentalSharpRepeatedLineStockhausen (U+ED5E).
+
+Version 1.9 (20 January 2017)
+- Added further Standard accidentals (SMuFL 1.20):
+  accidentalBracketLeft (U+E26C), accidentalBracketRight (U+E26D).
+- Added missing Spartan Sagittal single-shaft accidentals:
+  accSagittal5v7KleismaUp (U+E300), accSagittal5v7KleismaDown (U+E301).
+  accSagittal25SmallDiesisUp (U+E306), accSagittal25SmallDiesisDown (U+E307),
+  accSagittal35MediumDiesisUp (U+E308), accSagittal35MediumDiesisDown (U+E309),
+  accSagittal11LargeDiesisUp (U+E30C), accSagittal11LargeDiesisDown (U+E30D),
+  accSagittal35LargeDiesisUp (U+E30E), accSagittal35LargeDiesisDown (U+E30F).
+- Added Arel-Ezgi-Uzdilek (AEU) accidentals:
+  accidentalBuyukMucennebFlat (U+E440) - accidentalBuyukMucennebSharp (U+E447).
+
+Version 1.10 (22 January 2017)
+- Changed glyph of Ferneyhough accidentals.
+- Added further Ferneyhough accidentals (SMuFL 1.20):
+  accidentalOneQuarterToneSharpFerneyhough (U+E48E), accidentalOneQuarterToneFlatFerneyhough (U+E48F).
+
+Version 1.11 (8 February 2017)
+- Added clefs:
+  gClef (U+E050, U+1D11E), cClef (U+E05C, U+1D121), fClef (U+E062, U+1D122).
+- Added noteheads:
+  noteheadWhole (U+E0A2, U+1D15D), noteheadHalf (U+E0A3, U+1D157), noteheadBlack (U+E0A4, U+1D158).
+- Added staff symbols:
+  staff5Lines (U+E014, U+1D11A), staff5LinesWide (U+E01A), staff5LinesNarrow (U+E020),
+  legerLine (U+E022), legerLineWide (U+E023).
+
+Version 1.12 (9 July 2017)
+- Changed vertical position and bearing of Sims' quartertone accidentals:
+  accidentalSims4Down (U+E2A2), accidentalSims4Up (U+E2A5).
+- Added individual notes:
+  noteDoubleWhole (U+E1D0, U+1D15C), noteDoubleWholeSquare (U+E1D1), noteWhole (U+E1D2),
+  noteHalfUp (U+E1D3, U+1D15E), noteHalfDown (U+E1D4),
+  noteQuarterUp (U+E1D5, U+1D15F), noteQuarterDown (U+E1D6),
+  note8thUp (U+E1D7, U+1D160), note8thDown (U+E1D8),
+  note16thUp (U+E1D9, U+1D161), note16thDown (U+E1DA).
+- Added flags:
+  flag8thUp (U+E240, U+1D16E), flag8thDown (U+E241),
+  flag16thUp (U+E242, U+1D16F), flag16thDown (U+E243).
+
+Version 1.13 (12 July 2017)
+- Added augmentationDot (U+E1E7, U+1D16D).
+- Added barlines:
+  barlineSingle (U+E030, U+1D100), barlineDouble (U+E031, U+1D101), barlineFinal (U+E032, U+1D102).
+- Changed glyph of staff symbols to meet LilyPond:
+  staff5Lines (U+E014, U+1D11A), staff5LinesWide (U+E01A), staff5LinesNarrow (U+E020),
+  legerLine (U+E022), legerLineWide (U+E023).
+
+Version 1.14 (2 March 2018)
+- Added rests:
+  restWhole (U+E4E3, U+1D13B), restHalf (U+E4E4, U+1D13C), restQuarter (U+E4E5, U+1D13D),
+  rest8th (U+E4E6, U+1D13E), rest16th (U+E4E7, U+1D13F).
