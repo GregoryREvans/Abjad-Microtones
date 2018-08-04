@@ -56,6 +56,8 @@
 #(define-public E-FLAT -1/8)
 #(define-public THREE-E-FLAT -3/8)
 #(define-public FIVE-E-FLAT -5/8)
+#(define-public SEVEN-E-SHARP 7/8)
+#(define-public SEVEN-E-FLAT -7/8)
 
 % Language specific pitch names
 % Searches the pitch names alist for `cff` to detect if "english" has
@@ -620,6 +622,7 @@ $(let* ((l (map (lambda (n) (cons n (format #f "ekmel-~a.ily" n))) '(de en)))
   (,THIRTEEN-TWELFTH-SHARP #xE47B #xE263)))
 (evans #x010119 . (
                             (,DOUBLE-SHARP #xE263)
+                            (,SEVEN-E-SHARP #xE277)
                             (,THREE-Q-SHARP #xE283)
                             (,FIVE-E-SHARP #xE274)
                             (,SHARP #xE262)
@@ -637,6 +640,7 @@ $(let* ((l (map (lambda (n) (cons n (format #f "ekmel-~a.ily" n))) '(de en)))
                             (,FLAT #xE260)
                             (,FIVE-E-FLAT #xE271)
                             (,THREE-Q-FLAT #xE296)
+                            (,SEVEN-E-FLAT #xE278)
                             (,DOUBLE-FLAT #xE264)
                             ))
 
